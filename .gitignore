@@ -3,7 +3,7 @@ Thumbs.db*
 HELP.md
 .gradle
 build/
-artifact/
+chromdriver/
 
 ### STS ###
 .apt_generated
