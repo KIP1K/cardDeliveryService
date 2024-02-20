@@ -20,6 +20,7 @@ chromdriver/
 *.iml
 *.ipr
 out/
+/chromdriver/
 
 ### NetBeans ###
 /nbproject/private/
