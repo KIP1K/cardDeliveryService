@@ -38,3 +38,5 @@ public class TestCardDeliveryService {
                 .shouldHave(Condition.exactText("Успешно! Встреча успешно забронирована на " + planningDate));
     }
 }
+//не получается удалить хром
+
