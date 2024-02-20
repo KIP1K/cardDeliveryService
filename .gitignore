@@ -4,6 +4,7 @@ HELP.md
 .gradle
 build/
 
+
 ### STS ###
 .apt_generated
 .classpath
@@ -19,6 +20,8 @@ build/
 *.iml
 *.ipr
 out/
+
+
 
 ### NetBeans ###
 /nbproject/private/
