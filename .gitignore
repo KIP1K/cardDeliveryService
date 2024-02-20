@@ -3,7 +3,7 @@ Thumbs.db*
 HELP.md
 .gradle
 build/
-chromdriver/
+
 
 ### STS ###
 .apt_generated
@@ -20,7 +20,7 @@ chromdriver/
 *.iml
 *.ipr
 out/
-/chromdriver.exe
+
 
 
 ### NetBeans ###
